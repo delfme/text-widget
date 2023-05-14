@@ -3,7 +3,9 @@
 ## Intro
 This repo is meant to detail and provide a fix to flutter issues with rendering text/emojis correctly on iOS.
 
-https://user-images.githubusercontent.com/53510751/236954494-7a18c2d0-7856-46fb-b300-4a60ede3e6e6.mp4
+
+https://github.com/delfme/text-widget/assets/53510751/5a4dad53-e04f-499a-8edd-ac27be457815
+
 
 
 ## Solution
