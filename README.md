@@ -54,7 +54,7 @@ This is because these are the sizes the user sees most of time while using the d
 ## Conclusion
 The current solution provides 97-99% fidelity to native UI.
 Other issues also impact the final result:
-1) Impeller still not rendering text with 100% fidelity, ie. https://github.com/flutter/flutter/issues/120857#issuecomment-1740772918  
+1) Impeller still not rendering text with 100% fidelity, ie. https://github.com/flutter/flutter/issues/120857  
 2) Emoji being offcentred https://github.com/flutter/flutter/issues/119623#issuecomment-1535669615
 3) As strange as it might sound, it is harder to get a perfect match on android. Becuase the ecosystem is much fragmented and emojis sets are different. However, the result is always as much good as that user cannot notice any strangeness. 
 4) Numbers can still be improved, altough it would be such a slighty correction that wouldnt make the difference for the good or bad.
