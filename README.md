@@ -2,6 +2,7 @@
 
 ## Intro
 This repo is meant to detail and provide a fix to flutter issues with rendering text/emojis correctly on iOS.
+https://github.com/flutter/flutter/issues/28894
 
 
 https://github.com/delfme/text-widget/assets/53510751/64e88ac1-2ec1-47b8-bb62-a14b148e4108
